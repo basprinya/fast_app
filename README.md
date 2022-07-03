@@ -4,13 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+ทดสอบ Google Map API ทำงานได้กับ Android(API 33) Pixel 3 a 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://i.ibb.co/1J1KdxZ/Screen-Shot-2565-07-03-at-17-18-26.png" height="500px">
+<img src="https://i.ibb.co/8x0d2Px/Screen-Shot-2565-07-03-at-17-18-41.png" height="500px">
+<img src="https://i.ibb.co/Rv8n4ck/Screen-Shot-2565-07-03-at-17-22-13.png" height="500px">
